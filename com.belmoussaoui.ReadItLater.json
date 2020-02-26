@@ -49,8 +49,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://gitlab.gnome.org/bilelmoussaoui/read-it-later/uploads/6fb4689b9be7fe43613c868e4c5e8065/read-it-later-0.0.1.tar.xz",
-          "sha256": "b5dcb4c8d97c9b240c983838bf52c83e714e0a6ea7a02126d59cf53eb8fb4ccd"
+          "url": "https://gitlab.gnome.org/bilelmoussaoui/read-it-later/uploads/c96ced96a6d7e2e6d81b460af7fa5538/read-it-later-0.0.2.tar.xz",
+          "sha256": "e556c8853ac3bf58748d717572dd52507262eff1b4177b9eb05f721762c9049c"
         }
       ]
     }
