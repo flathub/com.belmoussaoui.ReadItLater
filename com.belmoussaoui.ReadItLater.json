@@ -1,7 +1,7 @@
 {
   "app-id": "com.belmoussaoui.ReadItLater",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "40",
+  "runtime-version": "42",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": ["org.freedesktop.Sdk.Extension.rust-stable"],
   "command": "read-it-later",
@@ -38,7 +38,7 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://source.puri.sm/Librem5/libhandy/-/archive/v0.0.13/libhandy-v0.0.13.tar.gz",
+          "url": "https://gitlab.gnome.org/GNOME/libhandy/-/archive/v0.0.13/libhandy-v0.0.13.tar.gz",
           "sha256": "138bec94e66d15a7a19350b65845d4529bcd969ea913ab3eb438f56fe47d5d37"
         }
       ]
@@ -49,7 +49,7 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://gitlab.gnome.org/bilelmoussaoui/read-it-later/uploads/c96ced96a6d7e2e6d81b460af7fa5538/read-it-later-0.0.2.tar.xz",
+          "url": "https://gitlab.gnome.org/World/read-it-later/uploads/c96ced96a6d7e2e6d81b460af7fa5538/read-it-later-0.0.2.tar.xz",
           "sha256": "e556c8853ac3bf58748d717572dd52507262eff1b4177b9eb05f721762c9049c"
         }
       ]
