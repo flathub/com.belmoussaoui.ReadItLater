@@ -23,33 +23,13 @@
   },
   "modules": [
     {
-      "name": "libhandy",
-      "buildsystem": "meson",
-      "config-opts": [
-        "-Dintrospection=disabled",
-        "-Dgtk_doc=false",
-        "-Dtests=false",
-        "-Dexamples=false",
-        "-Dvapi=false",
-        "-Dglade_catalog=disabled"
-      ],
-      "cleanup": ["/include", "/lib/pkgconfig"],
-      "sources": [
-        {
-          "type": "archive",
-          "url": "https://gitlab.gnome.org/GNOME/libhandy/-/archive/v0.0.13/libhandy-v0.0.13.tar.gz",
-          "sha256": "138bec94e66d15a7a19350b65845d4529bcd969ea913ab3eb438f56fe47d5d37"
-        }
-      ]
-    },
-    {
       "name": "read-it-later",
       "buildsystem": "meson",
       "sources": [
         {
           "type": "archive",
-          "url": "https://gitlab.gnome.org/World/read-it-later/uploads/c96ced96a6d7e2e6d81b460af7fa5538/read-it-later-0.0.2.tar.xz",
-          "sha256": "e556c8853ac3bf58748d717572dd52507262eff1b4177b9eb05f721762c9049c"
+          "url": "https://gitlab.gnome.org/World/read-it-later/uploads/6ec4ca799368abb58ca080864bc24e9c/read-it-later-0.3.0.tar.xz",
+          "sha256": "ac1c50e7894e0e193e8b2aba4b05bc807f69f66470277e6023aafcf3227c468d"
         }
       ]
     }
