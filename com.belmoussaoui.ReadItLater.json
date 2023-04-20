@@ -28,8 +28,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://gitlab.gnome.org/World/read-it-later/uploads/6ec4ca799368abb58ca080864bc24e9c/read-it-later-0.3.0.tar.xz",
-          "sha256": "ac1c50e7894e0e193e8b2aba4b05bc807f69f66470277e6023aafcf3227c468d"
+          "url": "https://gitlab.gnome.org/World/read-it-later/uploads/5bc2c5a0cf0f31ae9ffd926367a2f22a/read-it-later-0.4.0.tar.xz",
+          "sha256": "19f8cdd6d1573962ac256c0c6cfe2a2333c6e9be96df32eaf478b9ef7247cffe"
         }
       ]
     }
