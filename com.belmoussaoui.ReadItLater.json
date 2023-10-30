@@ -1,9 +1,11 @@
 {
   "id": "com.belmoussaoui.ReadItLater",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "44",
+  "runtime-version": "45",
   "sdk": "org.gnome.Sdk",
-  "sdk-extensions": ["org.freedesktop.Sdk.Extension.rust-stable"],
+  "sdk-extensions": [
+    "org.freedesktop.Sdk.Extension.rust-stable"
+  ],
   "command": "read-it-later",
   "finish-args": [
     "--share=ipc",
