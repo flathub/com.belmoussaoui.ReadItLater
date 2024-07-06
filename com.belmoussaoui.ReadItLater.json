@@ -30,8 +30,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://gitlab.gnome.org/World/read-it-later/uploads/11a384c8dd81a353016b902d93d279b5/read-it-later-0.5.0.tar.xz",
-          "sha256": "eae8ab447f261239208bc8dc504ee249b2e24c0d04de86fca9df0a16127b03e8"
+          "url": "https://gitlab.gnome.org/-/project/9133/uploads/81a97b77609aa728adb42cafa98964ac/read-it-later-0.6.0.tar.xz",
+          "sha256": "533e5e580258fb3ccfa5cfa36b418bc5501c685b02abfdcd300224445ef30d88"
         }
       ]
     }
