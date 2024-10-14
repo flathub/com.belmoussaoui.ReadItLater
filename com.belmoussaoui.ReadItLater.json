@@ -1,7 +1,7 @@
 {
   "id": "com.belmoussaoui.ReadItLater",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "46",
+  "runtime-version": "47",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": [
     "org.freedesktop.Sdk.Extension.rust-stable"
@@ -30,8 +30,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://gitlab.gnome.org/-/project/9133/uploads/81a97b77609aa728adb42cafa98964ac/read-it-later-0.6.0.tar.xz",
-          "sha256": "533e5e580258fb3ccfa5cfa36b418bc5501c685b02abfdcd300224445ef30d88"
+          "url": "https://gitlab.gnome.org/-/project/9133/uploads/63c635eb6c0270ec6ae9838e84a7e76b/read-it-later-0.6.1.tar.xz",
+          "sha256": "aa455601e6d73eb0dd886df03a2cc4ef28439ca1f9b16b66c7a29a37d60319cd"
         }
       ]
     }
